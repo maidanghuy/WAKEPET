@@ -2,7 +2,7 @@ import { NextResponse } from "next/server"
 import { Resend } from "resend"
 
 const resend = process.env.RESEND_API_KEY ? new Resend(process.env.RESEND_API_KEY) : null
-const RECEIVER_EMAIL = process.env.PREORDER_RECEIVER_EMAIL || "huymaidang.work@gmail.com"
+const RECEIVER_EMAIL = process.env.PREORDER_RECEIVER_EMAIL ? null
 
 interface PreorderData {
   fullName: string
