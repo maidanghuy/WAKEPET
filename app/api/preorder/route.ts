@@ -29,7 +29,7 @@ function getVehicleTypeLabel(type: string): string {
 function getModelLabel(model: string): string {
   const labels: Record<string, string> = {
     otter: "🦦 Otter (Rái Cá)",
-    cat: "🐱 Cat (Mèo)",
+    cat: "🐱 Doraemon (Mèo Máy)",
     bear: "🐻 Bear (Gấu)",
     undecided: "Chưa chắc",
   }

@@ -20,7 +20,7 @@ const faqs = [
   },
   {
     question: "Có thể chọn hình dáng thú cưng không?",
-    answer: "Có, các mẫu như Otter (Rái Cá), Cat (Mèo), Bear (Gấu) có thể được phát triển theo phiên bản. Bạn có thể chọn mẫu yêu thích khi đặt trước. Chúng tôi cũng đang phát triển thêm nhiều mẫu mới dựa trên phản hồi của cộng đồng.",
+    answer: "Có, các mẫu như Otter (Rái Cá), Doraemon (Mèo), Bear (Gấu) có thể được phát triển theo phiên bản. Bạn có thể chọn mẫu yêu thích khi đặt trước. Chúng tôi cũng đang phát triển thêm nhiều mẫu mới dựa trên phản hồi của cộng đồng.",
   },
   {
     question: "Khi nào sản phẩm có thể giao?",

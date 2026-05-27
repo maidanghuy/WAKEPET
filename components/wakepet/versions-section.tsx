@@ -18,7 +18,7 @@ const versions = [
     emoji: "🦦",
   },
   {
-    name: "WAKEPET Cat",
+    name: "WAKEPET Doraemon",
     description: "Phiên bản Mèo tinh nghịch với tông màu xanh dương pastel tươi sáng.",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202026-05-27%20at%2019.54.09-X5FMRT41M7OqUHnlFS1Y6a8IHnGunT.png",
     colors: ["#4A90D9", "#FFFFFF", "#E74C3C"],

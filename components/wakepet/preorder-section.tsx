@@ -271,7 +271,7 @@ export function PreorderSection() {
                           </SelectTrigger>
                           <SelectContent>
                             <SelectItem value="otter">🦦 Otter (Rái Cá)</SelectItem>
-                            <SelectItem value="cat">🐱 Cat (Mèo)</SelectItem>
+                            <SelectItem value="cat">🐱 Doraemon (Mèo Máy)</SelectItem>
                             <SelectItem value="bear">🐻 Bear (Gấu)</SelectItem>
                             <SelectItem value="undecided">Chưa chắc</SelectItem>
                           </SelectContent>
