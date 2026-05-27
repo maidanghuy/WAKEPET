@@ -165,7 +165,7 @@ export async function POST(request: Request) {
     if (resend) {
       try {
         await resend.emails.send({
-          from: "WAKEPET Pre-order <onboarding@wakepet.vercel.app>",
+          from: "WAKEPET Pre-order <onboarding@resend.dev>",
           to: [RECEIVER_EMAIL],
           subject: `New WAKEPET Pre-order từ ${data.fullName} - ${data.totalPriceFormatted}`,
           html: generateEmailHtml(data),
